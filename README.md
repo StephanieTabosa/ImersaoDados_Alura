@@ -1,4 +1,4 @@
-# ImersaoDados_Alura
+# Imersao Dados - Alura
 Projeto de Data Science da Imersão Dados da Alura 
 
 ![alt text](https://www.alura.com.br/assets/img/imersoes/general/og-imersao-alura.1595534856.png)
